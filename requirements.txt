@@ -1,0 +1,5 @@
+apache_beam
+google-cloud-secret-manager
+google-cloud-bigquery
+teradatasql
+apache_beam[dataframe]
